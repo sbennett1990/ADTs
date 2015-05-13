@@ -1,4 +1,4 @@
 ADTs
 ====
 
-Collection of Java Abstract Data Types
+A collection of Abstract Data Types, written in various languages.
